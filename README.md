@@ -1,6 +1,6 @@
 # CROPIQ SOLUTIONS 
 ```
-⬆️  THIS  IS A ML MODEL BASED CROP  INFECTION DETECTION PLATFORM (Replace above with your app's name)
+⬆️  THIS  IS A ML MODEL BASED CROP  INFECTION DETECTION PLATFORM 
 ```
 
 Description of the app ...
